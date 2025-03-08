@@ -1,5 +1,5 @@
 def greet():
 def greet():
-    """Prints a greeting message."""  # Docstring
+    """Docstring."""  # Docstring
     print("Hello, Python Students!")  # Function body
 greet()
